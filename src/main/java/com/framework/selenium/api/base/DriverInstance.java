@@ -24,6 +24,7 @@ public class DriverInstance  extends AbstractTestNGCucumberTests{
 	}
 
 	public WebDriverWait getWait() {
+		/*testing git*/
 		return wait.get();
 	}
 
